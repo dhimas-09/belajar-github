@@ -43,6 +43,7 @@ Push ke GitHub:
 
 git push -u origin main
 3. Langkah-Langkah Clone Repository
+<img src="/images/git clone.jpg>
 
 Clone = mengambil repository dari internet ke komputer lokal.
 
@@ -58,6 +59,7 @@ Masuk ke folder:
 
 cd nama-repo
 4. Langkah-Langkah Pull dan Push Repository
+<img src="/images/git pull.jpg">
 Pull (ambil update terbaru dari online):
 git pull origin main
 Push (kirim update ke online):
